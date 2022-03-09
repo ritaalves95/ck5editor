@@ -1,6 +1,6 @@
 {
   "homepage": "http://ritaalves95.github.io/ckeditor5",
-  "name": "rich-text-tut",
+  "name": "ckeditor5",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
